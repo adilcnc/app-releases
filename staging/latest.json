@@ -1,0 +1,20 @@
+{
+  "build": 101,
+  "version": "2.0.0",
+  "min_build": 101,
+  "notes": "The app can now update itself. When a new version is ready, you'll be asked to install it right here.",
+  "apks": {
+    "arm64": {
+      "url": "https://github.com/adilcnc/app-releases/releases/download/v2.0.0-staging/arm64.apk",
+      "sha256": "d8943f6e7642fc5d78426e5fabeaa5ecc458458ceda8750eaaeda13af9ce8e71"
+    },
+    "armeabi": {
+      "url": "https://github.com/adilcnc/app-releases/releases/download/v2.0.0-staging/armeabi.apk",
+      "sha256": "bb70514c9e261868e7e521741e7c525f06c354d9e4086124104281110ece7e34"
+    },
+    "universal": {
+      "url": "https://github.com/adilcnc/app-releases/releases/download/v2.0.0-staging/universal.apk",
+      "sha256": "09b34e69a7c0de22e9436bedc2b7aa943e3ae325aa5986e1174a7468309fce63"
+    }
+  }
+}
