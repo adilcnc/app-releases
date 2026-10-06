@@ -1,20 +1,20 @@
 {
-  "build": 103,
-  "version": "2.0.2",
+  "build": 104,
+  "version": "2.0.3",
   "min_build": 101,
   "notes": "Bug fixes and improvements.",
   "apks": {
     "arm64": {
-      "url": "https://github.com/adilcnc/app-releases/releases/download/v2.0.2-staging/arm64.apk",
-      "sha256": "145a5f91b723fc25e4a9cbd10ec4463575d24bb21c14fb50287e4ebb9c02b1cc"
+      "url": "https://github.com/adilcnc/app-releases/releases/download/v2.0.3-staging/arm64.apk",
+      "sha256": "65cf7328e0fd303a86f878617eb990c21e26ee013b784e52f8a9e671252fb54b"
     },
     "armeabi": {
-      "url": "https://github.com/adilcnc/app-releases/releases/download/v2.0.2-staging/armeabi.apk",
-      "sha256": "69fed571e0e156e6d8e17211e97fb196f637e777b70ecbf99b4b2aed4f326146"
+      "url": "https://github.com/adilcnc/app-releases/releases/download/v2.0.3-staging/armeabi.apk",
+      "sha256": "54f0a328cf97b2bdaf6745182e537e7893c1b7080f748b69bcc71e575f77b8a4"
     },
     "universal": {
-      "url": "https://github.com/adilcnc/app-releases/releases/download/v2.0.2-staging/universal.apk",
-      "sha256": "9304770a4c85992492e29f6d89e56987238afd780664c80ba264b52f47190fa1"
+      "url": "https://github.com/adilcnc/app-releases/releases/download/v2.0.3-staging/universal.apk",
+      "sha256": "b49d786b56c6a265653ada11a23c8c00c852eaa5aae59b1716bbcacf165f8d2b"
     }
   }
 }
